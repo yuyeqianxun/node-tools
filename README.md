@@ -2,3 +2,4 @@
 
 1. 利用puppeteer生成海报
 2. 利用nodemailer发送邮件
+3. 利用sharp操作图片
